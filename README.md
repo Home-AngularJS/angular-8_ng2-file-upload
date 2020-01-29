@@ -1,16 +1,11 @@
 ## Quick start
 
-1. A recommended way to install ***ng2-file-upload*** is through [npm](https://www.npmjs.com/search?q=ng2-file-upload) package manager using the following command:
+1. Рекомендуемый способ установки ***ng2-file-upload*** через менеджер пакетов [npm](https://www.npmjs.com/search?q=ng2-file-upload) используя команду: `npm i ng2-file-upload --save`.
+   Кроме того можно [скачать его в ZIP-файле](https://github.com/valor-software/ng2-file-upload/archive/master.zip).
 
-  `npm i ng2-file-upload --save`
+2. В настоящий момент `ng2-file-upload` содержит две директивы: `ng2-file-select` и `ng2-file-drop`. Директива `ng2-file-select` используется для поля формы 'file-input', а директива `ng2-file-drop` используется для области которая будет использоваться для удаления файла или файлов.
 
-  Alternatively, you can [download it in a ZIP file](https://github.com/valor-software/ng2-file-upload/archive/master.zip).
-
-2. Currently `ng2-file-upload` contains two directives: `ng2-file-select` and `ng2-file-drop`. `ng2-file-select` is used for 'file-input' field of form and
-  `ng2-file-drop` is used for area that will be used for dropping of file or files.
-
-3. More information regarding using of ***ng2-file-upload*** is located in
-  [demo](http://valor-software.github.io/ng2-file-upload/) and [demo sources](https://github.com/valor-software/ng2-file-upload/tree/master/demo).
+3. Более подробная информация об использовании ***ng2-file-upload*** находится в версии [demo](http://valor-software.github.io/ng2-file-upload/) и в исходниках [demo sources](https://github.com/valor-software/ng2-file-upload/tree/master/demo).
 
 ![1](screenshot-1.png)
 
@@ -22,7 +17,7 @@
 
 ![5](screenshot-5.png)
 
-## Using ***ng2-file-upload*** in a project
+## Использование ***ng2-file-upload*** в проекте
 
 1. Install as shown in the above section.
 
@@ -46,18 +41,18 @@
 
 ```public uploader:FileUploader = new FileUploader({url: URL}); ```
 
-## API for `ng2FileSelect`
+## API для `ng2FileSelect`
 
-### Properties
+### Свойства
 
   - `uploader` - (`FileUploader`) - uploader object. See using in [demo](https://github.com/valor-software/ng2-file-upload/blob/master/demo/components/file-upload/simple-demo.ts)
 
-### Events
+### События
  - `onFileSelected` - fires when files are selected and added to the uploader queue
 
 ## API for `ng2FileDrop`
 
-### Properties
+### Свойства
 
   - `uploader` - (`FileUploader`) - uploader object. See using in [demo](https://github.com/valor-software/ng2-file-upload/blob/master/demo/components/file-upload/simple-demo.ts)
 
