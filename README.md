@@ -18,6 +18,10 @@
 
 ![3](screenshot-3.png)
 
+![4](screenshot-4.png)
+
+![5](screenshot-5.png)
+
 ## Using ***ng2-file-upload*** in a project
 
 1. Install as shown in the above section.
