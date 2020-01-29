@@ -1,4 +1,4 @@
-## Quick start
+## The Angular File Upload directives "_ng2-file-upload_"
 
 1. Рекомендуемый способ установки ***ng2-file-upload*** через менеджер пакетов [npm](https://www.npmjs.com/search?q=ng2-file-upload) используя команду: `npm i ng2-file-upload --save`.
    Кроме того можно [скачать его в ZIP-файле](https://github.com/valor-software/ng2-file-upload/archive/master.zip).
