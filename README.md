@@ -11,7 +11,13 @@
 
 3. More information regarding using of ***ng2-file-upload*** is located in
   [demo](http://valor-software.github.io/ng2-file-upload/) and [demo sources](https://github.com/valor-software/ng2-file-upload/tree/master/demo).
-  
+
+![1](screenshot-1.png)
+
+![2](screenshot-2.png)
+
+![3](screenshot-3.png)
+
 ## Using ***ng2-file-upload*** in a project
 
 1. Install as shown in the above section.
