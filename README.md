@@ -17,6 +17,9 @@
 
 ![5](screenshot-5.png)
 
+- Ссылка на репозиторий https://github.com/valor-software/ng2-file-upload
+- Ссылка на демонстрационный пример https://valor-software.com/ng2-file-upload/
+
 ## Использование ***ng2-file-upload*** в проекте
 
 1. Install as shown in the above section.
